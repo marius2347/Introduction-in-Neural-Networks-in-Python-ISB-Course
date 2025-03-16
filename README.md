@@ -12,8 +12,7 @@
   <li>CNN</li>
   <li>Yolov3</li>
 </ul>
-  
-<h2>Acknowledgments</h2>
+
 
 
 <h2>Photo</h2>
